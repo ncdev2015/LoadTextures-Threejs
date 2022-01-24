@@ -1,6 +1,6 @@
 # load-textures-threejs
 
-this example show you how to add textures to cube meshes and others
+Shows you how to load textures into cube meshes, also well using multiples textures resources
 
 ![3D Viewer](https://github.com/ncdev2015/load-textures-threejs/blob/master/public/resources/images/demo.png)
 
