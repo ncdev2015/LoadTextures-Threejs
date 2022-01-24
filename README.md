@@ -1,8 +1,8 @@
-# 3dviewer-threejs-vue2
+# load-textures-threejs
 
 A basic setup for 3D projects with Vue 2 and Three.js
 
-![3D Viewer](https://github.com/ncdev2015/3DViewerThreejs-Vue2/blob/master/assets/sample.png)
+![3D Viewer](https://github.com/ncdev2015/3DViewerThreejs-Vue2/blob/master/public/resources/sample.png)
 
 ## Project setup
 
