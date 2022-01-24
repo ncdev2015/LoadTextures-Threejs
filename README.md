@@ -1,6 +1,6 @@
 # load-textures-threejs
 
-A basic setup for 3D projects with Vue 2 and Three.js
+this example show you how to add textures to cube meshes and others
 
 ![3D Viewer](https://github.com/ncdev2015/load-textures-threejs/blob/master/public/resources/images/demo.png)
 
