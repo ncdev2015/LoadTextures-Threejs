@@ -1,6 +1,6 @@
 # load-textures-threejs
 
-Shows you how to load textures into cube meshes, also well using multiples textures resources
+This example shows you how to load textures in cubes meshes, also doing it with multiples textures for every face.
 
 ![3D Viewer](https://github.com/ncdev2015/load-textures-threejs/blob/master/public/resources/images/demo.png)
 
@@ -27,7 +27,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
